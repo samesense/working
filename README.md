@@ -11,3 +11,4 @@
 
 ### pipeline
 * https://github.research.chop.edu/evansj/sm-gcp-wgs
+* [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
