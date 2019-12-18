@@ -9,12 +9,18 @@
 
 ### reference
 * https://github.research.chop.edu/RIS/reference_data
+* [quilt](https://quiltdata.com)
+* https://github.com/gogetdata/ggd-recipes
 
 ### crawlers
 * https://github.research.chop.edu/evansj/crawler-meetings
 
 ### dbgap
 * https://github.research.chop.edu/evansj/extract-phs001076
+* [prefetch by file](https://www.biostars.org/p/111040/)
+* https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR3879592
+* https://trace.ncbi.nlm.nih.gov/Traces/study/?dbgap_project=19401&o=study_accession_s%3Aa%3Bacc_s%3Aa&s=SRR3600975
+* https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=list_wishlists
 
 ### pipeline
 * https://github.research.chop.edu/evansj/sm-gcp-wgs
@@ -22,7 +28,35 @@
 * [test k8s+sm on vm](https://github.research.chop.edu/evansj/test-k8s)
 * [test sm and cromwell on respublica](https://github.com/samesense/test-gcp)
 * [my cromwell changes](https://github.research.chop.edu/evansj/cromwell/blob/2ce665ba06abbff65d9385dba6db6882e910713f/supportedBackends/google/pipelines/v2alpha1/src/main/scala/cromwell/backend/google/pipelines/v2alpha1/GenomicsFactory.scala); [use internal ip w/ cromwell](https://gatkforums.broadinstitute.org/firecloud/discussion/12334/running-cromwell-with-google-cloud-call-vm-with-external-ip-address)
+* [dgd workflows](https://github.research.chop.edu/DGD/dgd-wdl-workflows)
+* [respublica gatk4 pipeline](https://github.research.chop.edu/evansj/broad-gatk4)
+* [kibana](https://kibana.dbhi.chop.edu/app/kibana#/)
+* [cli ci](http://docs.buildbot.net/current/tutorial/firstrun.html)
+
+### annotation pipeline
+* https://github.research.chop.edu/reichenbee/variant_discovery
+
+### Dockerfiles
+* https://github.research.chop.edu/BiG/snakemake-conda-java
+* https://github.research.chop.edu/BiG/snakemake-conda-rnaseq
+* https://github.com/samesense/snakemake-conda-cromwell
+* https://quay.research.chop.edu/repository/evansj/snakemake-conda-java
 
 #### joint calling
 * https://bcbio.wordpress.com/tag/joint-calling/
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6184596/
+* https://gatkforums.broadinstitute.org/gatk/discussion/11813/how-to-consolidate-gvcfs-for-joint-calling-with-genotypegvcfs
+
+### k8s and vault
+* https://github.com/kubernetes-client/python/blob/02ef5be4ecead787961037b236ae498944040b43/kubernetes/docs/V1PodSpec.md
+* [vault](https://wiki.chop.edu/pages/viewpage.action?spaceKey=CBMISC&title=Secrets+Management+-+Vault)
+
+### variant calling
+* https://google.github.io/deepvariant/posts/2019-09-10-twenty-is-the-new-thirty-comparing-current-and-historical-wgs-accuracy-across-coverage/
+* [strelka](https://github.com/Illumina/strelka/blob/v2.9.x/docs/userGuide/quickStart.md)
+* [comparison](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6597787/)
+
+### advent of code
+* https://github.com/daxhuiberts/advent-of-code-2018/blob/master/Cargo.toml
+* https://github.com/gobanos/advent-of-code-2015/blob/master/src/lib.rs
+* https://github.com/gobanos/cargo-aoc
