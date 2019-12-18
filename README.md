@@ -8,3 +8,6 @@
 
 ### dbgap
 * https://github.research.chop.edu/evansj/extract-phs001076
+
+### pipeline
+* https://github.research.chop.edu/evansj/sm-gcp-wgs
