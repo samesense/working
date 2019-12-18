@@ -15,4 +15,4 @@
 
 ### pipeline
 * https://github.research.chop.edu/evansj/sm-gcp-wgs
-* [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+* [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules); [change submodule branch](https://stackoverflow.com/questions/1777854/how-can-i-specify-a-branch-tag-when-adding-a-git-submodule)
