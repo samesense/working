@@ -60,3 +60,13 @@
 * https://github.com/daxhuiberts/advent-of-code-2018/blob/master/Cargo.toml
 * https://github.com/gobanos/advent-of-code-2015/blob/master/src/lib.rs
 * https://github.com/gobanos/cargo-aoc
+
+### gcp
+* https://colab.research.google.com/notebooks/editor_details.ipynb
+* https://colab.research.google.com/notebook#create=true&language=python3
+* [tute table](https://bigquery.cloud.google.com/table/silver-wall-555:TuteTable.hg19?pli=1)
+
+#### beacons
+* https://www.googleapis.com/storage/v1/b/arcus-jpe-beacon-daede2ac-sa/
+* https://arcus-jpe-beacon-daede2ac.appspot.com/
+* https://beacon2-dot-arcus-jpe-beacon-4aa42c03.appspot.com/query?chromosome=1&coordinate=16718&allele=T
