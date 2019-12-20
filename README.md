@@ -33,6 +33,7 @@
 * [kibana](https://kibana.dbhi.chop.edu/app/kibana#/)
 * [cli ci](http://docs.buildbot.net/current/tutorial/firstrun.html)
 * [jira](https://jira.arcus.chop.edu:8443/browse/SCIT-67)
+* [jenkins](https://jenkins-ops-dbhi.research.chop.edu/job/sm-gcp-wgs/)
 
 ### annotation pipeline
 * https://github.research.chop.edu/reichenbee/variant_discovery
