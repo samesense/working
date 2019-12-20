@@ -32,6 +32,7 @@
 * [respublica gatk4 pipeline](https://github.research.chop.edu/evansj/broad-gatk4)
 * [kibana](https://kibana.dbhi.chop.edu/app/kibana#/)
 * [cli ci](http://docs.buildbot.net/current/tutorial/firstrun.html)
+* [jira](https://jira.arcus.chop.edu:8443/browse/SCIT-67)
 
 ### annotation pipeline
 * https://github.research.chop.edu/reichenbee/variant_discovery
