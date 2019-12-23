@@ -1,4 +1,4 @@
-# working
+## working
 
 ### my cookie cutter
 * https://github.com/samesense/project-cookiecutter
@@ -72,3 +72,6 @@
 * https://www.googleapis.com/storage/v1/b/arcus-jpe-beacon-daede2ac-sa/
 * https://arcus-jpe-beacon-daede2ac.appspot.com/
 * https://beacon2-dot-arcus-jpe-beacon-4aa42c03.appspot.com/query?chromosome=1&coordinate=16718&allele=T
+
+## learning
+* git submodule best practices
