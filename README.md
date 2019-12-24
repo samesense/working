@@ -5,7 +5,6 @@
 
 ### ibd array
 * https://github.research.chop.edu/evansj/ibd-gwas
-* betsy omni25 controls https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5539991/
 
 ### reference
 * https://github.research.chop.edu/RIS/reference_data
