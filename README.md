@@ -33,6 +33,7 @@
 * [cli ci](http://docs.buildbot.net/current/tutorial/firstrun.html)
 * [jira](https://jira.arcus.chop.edu:8443/browse/SCIT-67)
 * [jenkins](https://jenkins-ops-dbhi.research.chop.edu/job/sm-gcp-wgs/)
+* view k8s pod mem usage: https://github.com/kubernetes/kubernetes/issues/17512
 
 ### annotation pipeline
 * https://github.research.chop.edu/reichenbee/variant_discovery
@@ -72,5 +73,18 @@
 * https://arcus-jpe-beacon-daede2ac.appspot.com/
 * https://beacon2-dot-arcus-jpe-beacon-4aa42c03.appspot.com/query?chromosome=1&coordinate=16718&allele=T
 
+### cnv pipeline
+* https://github.com/gatk-workflows/gatk4-germline-cnvs/tree/dev
+
+### testing
+* https://github.research.chop.edu/devops/gcp-python-utilities/blob/master/infosec/Jenkinsfile
+* pytest https://docs.pytest.org/en/latest/fixture.html
+
+### tmux
+* https://github.com/gpakosz/.tmux#enabling-the-powerline-look
+
+### bamio dockerfile
+* https://github.research.chop.edu/evansj/bam.iobio-docker
+
 ## learning
-* git submodule best practices
+* git submodule best practices: recursive clone 
