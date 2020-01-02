@@ -76,6 +76,7 @@
 
 ### cnv pipeline
 * https://github.com/gatk-workflows/gatk4-germline-cnvs/tree/dev
+* [compare cnv tools](https://www.biorxiv.org/content/10.1101/482554v1.full.pdf)
 
 ### testing
 * https://github.research.chop.edu/devops/gcp-python-utilities/blob/master/infosec/Jenkinsfile
