@@ -85,8 +85,9 @@
 ### tmux
 * https://github.com/gpakosz/.tmux#enabling-the-powerline-look
 
-### bamio dockerfile
+### dante
 * https://github.research.chop.edu/evansj/bam.iobio-docker
+* https://www.biorxiv.org/content/10.1101/467910v1.full
 
 ## learning
 * git submodule best practices: recursive clone 
