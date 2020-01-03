@@ -94,3 +94,7 @@
 
 ## learning
 * git submodule best practices: recursive clone 
+
+#### python packaging
+* package on pypi, but not on conda
+* pip conflicts with conda modules
