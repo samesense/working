@@ -1,5 +1,10 @@
 ## working
 
+### todo
+* gemini cadd data
+* vt docker
+* sepsis data ls
+
 ### mike meetings
 * https://github.research.chop.edu/evansj/mike-meetings
 
