@@ -3,7 +3,6 @@
 ### todo
 * blood sim code
 * gemini cadd data
-* vt docker
 * sepsis data ls
 
 ### mike meetings
