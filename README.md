@@ -7,6 +7,7 @@
 * sepsis data ls
 * dgd exomes
 * finalize cocat [package](https://github.com/samesense/python-ctr)
+* teraform and migrate gcp projects
 
 ## links
 
