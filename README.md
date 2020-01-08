@@ -1,9 +1,14 @@
 ## working
+* gcp wdl pipeline
 
-### todo
+## todo
 * blood sim code
 * gemini cadd data
 * sepsis data ls
+* dgd exomes
+* finalize cocat [package](https://github.com/samesense/python-ctr)
+
+## links
 
 ### mike meetings
 * https://github.research.chop.edu/evansj/mike-meetings
@@ -99,6 +104,7 @@
 
 ## learning
 * git submodule best practices: recursive clone 
+* [segmented regression](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-9-77)
 
 #### python packaging
 * package on pypi, but not on conda
