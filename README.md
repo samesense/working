@@ -4,7 +4,6 @@
 ## todo
 * blood sim code
 * gemini cadd data
-* sepsis data ls
 * dgd exomes
 * finalize cocat [package](https://github.com/samesense/python-ctr)
 * teraform and migrate gcp projects
