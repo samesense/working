@@ -24,6 +24,9 @@
 * https://github.research.chop.edu/RIS/reference_data
 * [quilt](https://quiltdata.com)
 * https://github.com/gogetdata/ggd-recipes
+* [schema validator](https://json-schema-everywhere.github.io/yaml)
+* [ex schemas](https://github.com/arcus/schemas/tree/master/definition)
+* [vs code validation](https://github.com/arcus/metadata-management-vscode-config)
 
 ### crawlers
 * https://github.research.chop.edu/evansj/crawler-meetings
