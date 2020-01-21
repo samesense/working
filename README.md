@@ -1,5 +1,7 @@
 ## working
-* gcp wdl pipeline
+* bd cag samples
+* match controls
+* upload renamed cag vcf
 
 ## todo
 * blood sim code
