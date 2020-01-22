@@ -2,6 +2,7 @@
 * bd cag samples
 * match controls
 * upload renamed cag vcf
+* splice web scraping
 
 ## todo
 * blood sim code
