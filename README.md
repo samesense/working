@@ -1,7 +1,7 @@
 ## working
-* bd cag samples
+* bd cag sample calls
 * match controls
-* upload renamed cag vcf
+* upload renamed cag vcf: where did the table go?
 * splice web scraping
 
 ## todo
