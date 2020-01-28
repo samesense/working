@@ -115,3 +115,6 @@
 * package on pypi, but not on conda
 * pip conflicts with conda modules
 * [container](https://github.research.chop.edu/evansj/python-package-dev-docker)
+
+### kitty
+* [colors](https://github.com/dexpota/kitty-themes#previews)
