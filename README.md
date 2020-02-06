@@ -2,6 +2,7 @@
 * bd cag sample calls
 * match controls
 * splice web scraping
+* new vpc restrictions force cromwell update
 
 ## todo
 * blood sim code
