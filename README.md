@@ -1,15 +1,14 @@
 ## working
+* cp broad data for new pipeline: https://github.com/gatk-workflows/gatk4-genome-processing-pipeline/blob/master/WholeGenomeGermlineSingleSample.inputs.json
 * bd cag sample calls
 * match controls
 * splice web scraping
-* new vpc restrictions force cromwell update
 
 ## todo
 * blood sim code
 * gemini cadd data
 * dgd exomes
-* finalize cocat [package](https://github.com/samesense/python-ctr)
-* teraform and migrate gcp projects
+* finalize concat [package](https://github.com/samesense/python-ctr)
 
 ## links
 
