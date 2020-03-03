@@ -22,6 +22,10 @@
 ### ibd array
 * https://github.research.chop.edu/evansj/ibd-gwas
 
+### app engine
+* old way: https://cloud.google.com/appengine/docs/flexible/python/run-flex-app-on-kubernetes
+* https://cloud.google.com/appengine/docs/standard/go111/quickstart
+
 ### reference
 * https://github.research.chop.edu/RIS/reference_data
 * [quilt](https://quiltdata.com)
