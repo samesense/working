@@ -1,8 +1,6 @@
 ## working
-* cp broad data for new pipeline: https://github.com/gatk-workflows/gatk4-genome-processing-pipeline/blob/master/WholeGenomeGermlineSingleSample.inputs.json
-* upload wgsa again
+* test new pipeline: https://github.com/gatk-workflows/gatk4-genome-processing-pipeline/blob/master/WholeGenomeGermlineSingleSample.inputs.json
 * match controls
-* splice web scraping
 * github phi
 
 ## todo
