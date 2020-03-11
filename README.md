@@ -3,6 +3,14 @@
 * match controls
 * github phi
 
+/mnt/isilon/dbgap_phs001076_v1_p1_19401/workspace
+sm -s Snakefile.py -c "qsub -l h_vmem=10G -l mem_free=10G -l m_mem_free=10G" -j50 convert_all
+
+/mnt/isilon/devoto_lab/projects/ibd-gwas/src/rules
+snakemake -s Snakefile.py --use-singularity --singularity-args "-B /mnt/isilon/:/mnt/isilon" --use-conda -n test_genipe
+
+/mnt/isilon/sarmadylab/projects/mahdi_epi/src/rules
+
 ## todo
 * blood sim code
 * gemini cadd data
