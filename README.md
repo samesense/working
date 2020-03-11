@@ -103,6 +103,7 @@ snakemake -s Snakefile.py --use-singularity --singularity-args "-B /mnt/isilon/:
 * https://arcus-jpe-beacon-daede2ac.appspot.com/
 * https://beacon2-dot-arcus-jpe-beacon-4aa42c03.appspot.com/query?chromosome=1&coordinate=16718&allele=T
 * [jira](https://jira.arcus.chop.edu:8443/browse/ADP-431)
+* [warehouse code](https://github.com/samesense/warehouse-beacon)
 
 ### cnv pipeline
 * https://github.com/gatk-workflows/gatk4-germline-cnvs/tree/dev
