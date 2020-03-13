@@ -38,7 +38,7 @@ snakemake -s Snakefile.py --use-singularity --singularity-args "-B /mnt/isilon/:
 * Make pipeline to annotate indels (have to be careful here to use the same tools that the existing tables use)
 #### cnv pipeline (5 weeks)
 * Make pipeline
-### care about the calls (4 weeks)
+#### care about the calls (4 weeks)
 * Compare our calls go cag and broad
 * Compre our calls to dgd
 
