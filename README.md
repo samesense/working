@@ -18,28 +18,29 @@ snakemake -s Snakefile.py --use-singularity --singularity-args "-B /mnt/isilon/:
 * finalize concat [package](https://github.com/samesense/python-ctr)
 
 ### birth defects (this is bacically one full FTE)
-#### beacon (removing app engine functionality has set me back a lot)
+#### beacon (removing app engine functionality has set me back a lot) (2 weeks)
 * There are a lot of interfaces that need to happen for this to work, and I don't know how to do it w/ CHOP's tools, so I've asked PJ to go throught the example and make it work: https://jira.arcus.chop.edu:8443/browse/ADP-431 No response yet.
 * Then hand to Byron for security
 * Then implement query interface {by gene, rsID, chr/pos) (easy)
 * Think about how indels will be queried
 * Think about how cnvs will be queried
-#### warehouse
+#### warehouse (3 weeks)
 * Zygosity column: Some questions I need to answer by experimenting: 
     * Can I trust gvcf zygosity calls? 
     * Will vcfs yield different calls? 
     * Do I need to add a vcf table and pipeline?
 * Tool to load vcfs from project
 * Debug snpeff annotation table loading
-#### variant pipeline
+#### variant pipeline (4 weeks for denovo)
 * Should I run all cag exome samples and put into the warehouse?
 * Make de novo pipeline using my family data (30x wgs)
-#### annotation pipeline
+#### annotation pipeline (4 weeks)
 * Make pipeline to annotate indels (have to be careful here to use the same tools that the existing tables use)
-#### cnv pipeline
+#### cnv pipeline (5 weeks)
 * Make pipeline
-### care about the calls
+### care about the calls (4 weeks)
 * Compare our calls go cag and broad
+* Compre our calls to dgd
 
 ## links
 
