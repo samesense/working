@@ -28,7 +28,7 @@ snakemake -s Snakefile.py --use-singularity --singularity-args "-B /mnt/isilon/:
 * Zygosity column: Some questions I need to answer by experimenting: 
     * Can I trust gvcf zygosity calls? 
     * Will vcfs yield different calls? 
-    * Do I need to add a vcf table and pipeline?
+    * Do I need to add a vcf table and pipeline? https://github.com/gatk-workflows/gatk4-germline-snps-indels
 * Tool to load vcfs from project
 * Debug snpeff annotation table loading
 #### variant pipeline (4 weeks for denovo)
@@ -37,7 +37,7 @@ snakemake -s Snakefile.py --use-singularity --singularity-args "-B /mnt/isilon/:
 #### annotation pipeline (4 weeks)
 * Make pipeline to annotate indels (have to be careful here to use the same tools that the existing tables use)
 #### cnv pipeline (5 weeks)
-* Make pipeline
+* Make pipeline https://github.com/gatk-workflows/gatk4-germline-cnvs
 #### care about the calls (4 weeks)
 * Compare our calls go cag and broad
 * Compre our calls to dgd
