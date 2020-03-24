@@ -1,6 +1,5 @@
 ## working
 * test new pipeline: https://github.com/gatk-workflows/gatk4-genome-processing-pipeline/blob/master/WholeGenomeGermlineSingleSample.inputs.json
-* match controls
 * github phi
 
 /mnt/isilon/dbgap_phs001076_v1_p1_19401/workspace
