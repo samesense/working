@@ -10,6 +10,10 @@ snakemake -s Snakefile.py --use-singularity --singularity-args "-B /mnt/isilon/:
 
 /mnt/isilon/sarmadylab/projects/mahdi_epi/src/rules
 
+## playing
+* https://www.dolthub.com/blog/2020-03-30-dolt-use-cases/
+* https://dystroy.org/broot/install/
+
 ## todo
 * blood sim code
 * gemini cadd data
