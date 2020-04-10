@@ -1,14 +1,6 @@
 ## working
-* test new pipeline: https://github.com/gatk-workflows/gatk4-genome-processing-pipeline/blob/master/WholeGenomeGermlineSingleSample.inputs.json
 * github phi
-
-/mnt/isilon/dbgap_phs001076_v1_p1_19401/workspace
-sm -s Snakefile.py -c "qsub -l h_vmem=10G -l mem_free=10G -l m_mem_free=10G" -j50 convert_all
-
-/mnt/isilon/devoto_lab/projects/ibd-gwas/src/rules
-snakemake -s Snakefile.py --use-singularity --singularity-args "-B /mnt/isilon/:/mnt/isilon" --use-conda -n test_genipe
-
-/mnt/isilon/sarmadylab/projects/mahdi_epi/src/rules
+* dgd exomes
 
 ## playing
 * https://www.dolthub.com/blog/2020-03-30-dolt-use-cases/
@@ -17,23 +9,16 @@ snakemake -s Snakefile.py --use-singularity --singularity-args "-B /mnt/isilon/:
 ## todo
 * blood sim code
 * gemini cadd data
-* dgd exomes
 * finalize concat [package](https://github.com/samesense/python-ctr)
 
 ### birth defects (this is bacically one full FTE)
 #### beacon (removing app engine functionality has set me back a lot) (2 weeks)
-* There are a lot of interfaces that need to happen for this to work, and I don't know how to do it w/ CHOP's tools, so I've asked PJ to go throught the example and make it work: https://jira.arcus.chop.edu:8443/browse/ADP-431 No response yet.
 * Then hand to Byron for security
 * Then implement query interface {by gene, rsID, chr/pos) (easy)
 * Think about how indels will be queried
 * Think about how cnvs will be queried
 #### warehouse (3 weeks)
-* Zygosity column: Some questions I need to answer by experimenting: 
-    * Can I trust gvcf zygosity calls? 
-    * Will vcfs yield different calls? 
-    * Do I need to add a vcf table and pipeline? https://github.com/gatk-workflows/gatk4-germline-snps-indels
 * Tool to load vcfs from project
-* Debug snpeff annotation table loading
 #### variant pipeline (4 weeks for denovo)
 * Should I run all cag exome samples and put into the warehouse?
 * Make de novo pipeline using my family data (30x wgs)
